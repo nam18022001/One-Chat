@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855389843771",
+    "project_id": "one-chat-rebuild",
+    "storage_bucket": "one-chat-rebuild.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855389843771:android:b057471c896c521891071e",
+        "android_client_info": {
+          "package_name": "com.example.one_chat_rebuild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855389843771-jctj1hfpt357pief8u10jddo8k2ng9ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.one_chat_rebuild",
+            "certificate_hash": "1e3e4ef77fd10236be2dca7fae75fb4cd54d6df6"
+          }
+        },
+        {
+          "client_id": "855389843771-ifdi7b5ks8fh402pq0pevsq07h09od2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61G_nOap3JdD9dOfPJW_HG-GqEfcBPQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855389843771-ifdi7b5ks8fh402pq0pevsq07h09od2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
