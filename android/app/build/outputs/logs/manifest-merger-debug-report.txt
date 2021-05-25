@@ -1,10 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
-INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
-INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
-INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
-MERGED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
+INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
+MERGED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
 MERGED from [:google_sign_in] F:\App-flutter\one_chat_rebuild\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:fluttertoast] F:\App-flutter\one_chat_rebuild\build\fluttertoast\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_storage] F:\App-flutter\one_chat_rebuild\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
@@ -104,20 +104,116 @@ INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManif
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:1-57:12
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:1:11-69
-uses-permission#android.permission.QUERY_ALL_PACKAGES
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:4:5-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:5:5-74
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-75
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-75
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:4:22-74
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:5:22-72
+uses-permission#android.permission.INTERNET
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:google_sign_in] F:\App-flutter\one_chat_rebuild\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] F:\App-flutter\one_chat_rebuild\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:7:5-71
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:8:5-80
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
+MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1e64bf06e523a272205ffa2edbaf8fea\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1e64bf06e523a272205ffa2edbaf8fea\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\a1a8534c906a0357f1eb5dff1a6e4134\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\a1a8534c906a0357f1eb5dff1a6e4134\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:10:22-65
+queries
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:12:5-16:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:13:9-15:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:14:13-73
+	android:name
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:14:21-70
 application
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:5:4-43:19
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:17:4-56:19
 MERGED from [:firebase_storage] F:\App-flutter\one_chat_rebuild\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:firebase_storage] F:\App-flutter\one_chat_rebuild\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
 MERGED from [:image_picker] F:\App-flutter\one_chat_rebuild\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
@@ -197,55 +293,55 @@ MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\namke\.grad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\c6cbb546329fcf86fc50a69717ed35fe\core-1.3.1\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:6:9-33
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:18:9-33
 	android:icon
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:7:9-45
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:19:9-45
 activity#com.example.one_chat_rebuild.MainActivity
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:8:9-37:20
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:20:9-50:20
 	android:launchMode
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:10:13-43
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:22:13-43
 	android:hardwareAccelerated
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:13:13-47
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:25:13-47
 	android:windowSoftInputMode
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:14:13-55
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:26:13-55
 	android:configChanges
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:12:13-163
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:24:13-163
 	android:theme
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:11:13-47
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:23:13-47
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:9:13-41
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:21:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:19:13-22:17
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:31:13-34:17
 	android:resource
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:21:15-52
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:33:15-52
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:20:15-70
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:32:15-70
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:28:13-31:17
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:40:13-43:17
 	android:resource
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:30:15-61
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:42:15-61
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:29:15-79
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:41:15-79
 intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:44:13-49:29
 action#android.intent.action.MAIN
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:33:17-68
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:46:17-68
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:46:25-66
 action#FLUTTER_NOTIFICATION_CLICK
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:47:17-69
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:47:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:35:17-76
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:48:17-76
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:48:27-74
 meta-data#flutterEmbedding
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:40:9-42:33
+ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:53:9-55:33
 	android:value
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:42:13-30
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:55:13-30
 	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml:54:13-44
 uses-sdk
 INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml
@@ -438,36 +534,6 @@ INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManif
 	android:minSdkVersion
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\main\AndroidManifest.xml
 		INJECTED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManifest.xml:6:5-66
-MERGED from [:google_sign_in] F:\App-flutter\one_chat_rebuild\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:google_sign_in] F:\App-flutter\one_chat_rebuild\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
-MERGED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
-MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:14:5-67
-MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
-MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:27:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:23:5-67
-	android:name
-		ADDED from F:\App-flutter\one_chat_rebuild\android\app\src\debug\AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
 ADDED from [:firebase_storage] F:\App-flutter\one_chat_rebuild\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:33:9-37:19
@@ -534,60 +600,10 @@ ADDED from [:image_picker] F:\App-flutter\one_chat_rebuild\build\image_picker\in
 		ADDED from [:image_picker] F:\App-flutter\one_chat_rebuild\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
 	android:name
 		ADDED from [:image_picker] F:\App-flutter\one_chat_rebuild\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-75
-	android:name
-		ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-72
-uses-permission#android.permission.RECORD_AUDIO
-ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-71
-	android:name
-		ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:12:22-68
 uses-permission#android.permission.CAMERA
 ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-65
 	android:name
 		ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:13:22-62
-uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:5-80
-	android:name
-		ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:14:22-77
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:5-79
-MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
-MERGED from [:firebase_messaging] F:\App-flutter\one_chat_rebuild\build\firebase_messaging\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
-MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-messaging:22.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1c075310296ee9585f35188ad9e1b8a0\jetified-firebase-messaging-22.0.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\12200954332df4e7949ae523e1cf886f\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:25:5-79
-MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\39226147107c07d612c0b5c242740fda\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-firestore:23.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\97adf795b5cc2e6c658550f46165db21\jetified-firebase-firestore-23.0.0\AndroidManifest.xml:13:5-79
-MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:26:5-79
-MERGED from [com.google.firebase:firebase-storage:20.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1b1da317e75d1e5f9a3fdb04d44a433f\jetified-firebase-storage-20.0.0\AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\4a8a329fca92c8807a625b4058f28630\jetified-play-services-measurement-api-19.0.0\AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
-MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\2733ee416a9a3a7703f654641d3c99ee\jetified-firebase-installations-17.0.0\AndroidManifest.xml:10:5-79
-MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
-MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\9fbe687fafbecc1727e69653ffa44b44\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
-MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\b8dcfd1b552f7109144a8abf8e3c9b86\jetified-play-services-measurement-19.0.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\5cd0d79354261244f6a20fdc9d95e6ed\jetified-play-services-measurement-impl-19.0.0\AndroidManifest.xml:24:5-79
-MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1e64bf06e523a272205ffa2edbaf8fea\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
-MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\1e64bf06e523a272205ffa2edbaf8fea\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\8826ca986e6193ba3621f65cae7b406e\jetified-play-services-cloud-messaging-16.0.0\AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:19.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\ec8e985a01ffb31bef0a13fc0ca0d39e\jetified-play-services-measurement-sdk-api-19.0.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\a1a8534c906a0357f1eb5dff1a6e4134\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\namke\.gradle\caches\transforms-2\files-2.1\a1a8534c906a0357f1eb5dff1a6e4134\jetified-transport-runtime-3.0.0\AndroidManifest.xml:22:5-79
-	android:name
-		ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:15:22-76
-uses-permission#android.permission.BLUETOOTH
-ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:5-68
-	android:name
-		ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:16:22-65
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from [:agora_rtc_engine] F:\App-flutter\one_chat_rebuild\build\agora_rtc_engine\intermediates\library_manifest\debug\AndroidManifest.xml:17:5-76
 	android:name

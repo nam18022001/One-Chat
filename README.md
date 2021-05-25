@@ -23,7 +23,7 @@ Flutter
 Facebook: [Hoàng Nam](https://facebook.com/nam1822001/)
 
 You can dowload app in this link: 
-[One Chat](https://drive.google.com/file/d/1LdeewvpLOuNmoTWzifz3nybtU-zbN5io/view?usp=sharing)
+[One Chat](https://drive.google.com/file/d/1LhGLiOhFbtGObqFRCW18oVSSr1DaqR8X/view?usp=sharing)
 
 ## 👨‍💻 Usage
 Make sure you have [install flutter](https://flutter.dev/docs/get-started/install) and run the code `Flutter doctor -v`
