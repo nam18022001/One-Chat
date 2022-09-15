@@ -1,3 +1,8 @@
+<style>
+a{
+text-decoration: none;
+}
+</style>
 <p align="center"><img width="200"  src="https://github.com/nam18022001/One-Chat/blob/main/assets/logo/logo_github.png"></p>
 <p align="center">
 <a href="https://flutter.dev/">
