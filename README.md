@@ -1,12 +1,9 @@
-<style>
-a{
-text-decoration: none;
-}
-</style>
+
 <p align="center"><img width="200"  src="https://github.com/nam18022001/One-Chat/blob/main/assets/logo/logo_github.png"></p>
 <p align="center">
 <a href="https://flutter.dev/">
-<img width="10px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true">
+  
+<img  width="10px" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true">
 Flutter
 </div>
 </a>
